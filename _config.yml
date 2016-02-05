@@ -1,0 +1,14 @@
+layout_spectrum: 0.9426523
+typography_spectrum: 0.890681
+color:
+  saturation: 0.5286738
+  lightness: 0.3548387
+  brandStrength: 0.2058342
+  rhythmicContrast: 0.6541219
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Kiel
